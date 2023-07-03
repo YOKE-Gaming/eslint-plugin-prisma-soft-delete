@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-prisma-soft-delete",
+  "name": "@yoke-global/eslint-plugin-prisma-soft-delete",
   "version": "0.0.1",
   "main": "./dist/index.js",
   "license": "MIT",
