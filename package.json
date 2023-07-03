@@ -1,8 +1,9 @@
 {
   "name": "eslint-plugin-prisma-soft-delete",
-  "version": "0.0.6-development",
+  "version": "0.0.1",
   "main": "./dist/index.js",
   "license": "MIT",
+  "_private": true,
   "scripts": {
     "test": "jest",
     "build": "tsup src/index.ts",
@@ -26,9 +27,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sumancbd/eslint-plugin-prisma-soft-delete"
+    "url": "https://github.com/YOKE-Gaming/eslint-plugin-prisma-soft-delete"
   },
-  "author": "Suman Sarkar",
+  "author": "Richard Zheng",
   "keywords": [
     "prisma",
     "eslint",
