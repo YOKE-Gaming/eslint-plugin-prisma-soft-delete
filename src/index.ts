@@ -1,9 +1,7 @@
-import useDeletedNull from './rules/use-deleted-null';
-import useFindFirst from "./rules/use-find-first";
+import useDeletedAtNull from "./rules/use-deletedAt-null";
 
 module.exports = {
-    rules: {
-      'use-deleted-null': useDeletedNull,
-      'use-find-first': useFindFirst,
-    },
+  rules: {
+    "use-deletedAt-null": useDeletedAtNull,
+  },
 };
